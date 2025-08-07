@@ -1,0 +1,11 @@
+tessarion-tsc-investment-platform/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── Hero.jsx
+│   ├── App.js
+│   ├── index.css
+├── README.md
+├── package.json
+├── tailwind.config.js
+└── ...
