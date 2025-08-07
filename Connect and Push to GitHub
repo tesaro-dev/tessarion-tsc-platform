@@ -1,0 +1,3 @@
+git add .
+git commit -m "Initial Tesla-style homepage for Tessarion-Tsc platform"
+git push origin main
