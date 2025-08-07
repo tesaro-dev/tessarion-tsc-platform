@@ -1,0 +1,17 @@
+import React from "react";
+
+export default function Hero() {
+  return (
+    <section className="bg-black text-white h-screen flex items-center justify-center">
+      <div className="text-center space-y-6">
+        <h1 className="text-5xl font-bold uppercase">Tessarion-Tsc Investment</h1>
+        <p className="text-xl max-w-xl mx-auto">
+          Intelligent investment. Real-time analytics. Powered by AI. Inspired by Tesla’s innovation.
+        </p>
+        <button className="px-6 py-3 bg-white text-black font-bold rounded hover:bg-gray-200 transition">
+          Get Started
+        </button>
+      </div>
+    </section>
+  );
+}
