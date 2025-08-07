@@ -1,2 +1,10 @@
-# tessarion-tsc-platform
-A professional, Tesla-inspired investment platform for Tessarion-Tsc. Built with React, Tailwind CSS, Firebase Auth, and AI-powered dashboards.
+## 🔧 Features Planned
+
+- [x] Tesla-inspired homepage design
+- [ ] Live Investment Dashboard
+- [ ] Firebase Auth + Role-based Admin
+- [ ] AI Clone Asset Recovery Tracker
+- [ ] Interactive Brokers API Login
+- [ ] Real-time Market & Earnings Feed
+- [ ] `/learn` CMS-backed Education Portal
+- [ ] Admin Panel Editor for Courses
